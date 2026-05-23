@@ -1,0 +1,1001 @@
+Produto,Regiao,Quantidade_Vendida,Preco_Unitario,Receita_Total
+Smartphone,Sul,39,3992.89,155722.71
+Mouse,Sul,15,3673.37,55100.55
+Notebook,Sul,21,822.29,17268.09
+Mouse,Norte,19,544.88,10352.72
+Teclado,Sul,11,4337.57,47713.27
+Tablet,Centro-Oeste,36,757.19,27258.84
+Notebook,Sudeste,3,151.89,455.67
+Smartwatch,Centro-Oeste,2,3623.89,7247.78
+Monitor,Centro-Oeste,30,1101.08,33032.4
+Teclado,Sul,21,3106.53,65237.13
+Fone de Ouvido,Norte,22,84.98,1869.56
+Smartphone,Sudeste,25,1491.58,37289.5
+Tablet,Sudeste,42,281.0,11802.0
+Teclado,Sul,16,1202.22,19235.52
+Teclado,Sudeste,47,3111.01,146217.47
+Fone de Ouvido,Sul,44,2595.46,114200.24
+Notebook,Sul,3,4306.71,12920.13
+Mouse,Norte,7,894.09,6258.63
+Teclado,Sul,39,115.66,4510.74
+Mouse,Nordeste,25,4829.88,120747.0
+Tablet,Sudeste,9,129.03,1161.27
+Tablet,Sul,2,3436.95,6873.9
+Mouse,Sudeste,47,3432.15,161311.05
+Smartphone,Norte,44,2501.13,110049.72
+Teclado,Centro-Oeste,47,908.16,42683.52
+Smartphone,Centro-Oeste,17,1330.96,22626.32
+Monitor,Sul,40,3789.04,151561.6
+Smartwatch,Nordeste,6,1079.31,6475.86
+Smartwatch,Sul,4,965.03,3860.12
+Teclado,Sudeste,18,3886.91,69964.38
+Teclado,Nordeste,34,2005.99,68203.66
+Notebook,Sudeste,36,3009.6,108345.6
+Monitor,Sul,48,1666.38,79986.24
+Fone de Ouvido,Sudeste,14,1020.12,14281.68
+Fone de Ouvido,Centro-Oeste,40,4230.44,169217.6
+Smartphone,Sul,45,1393.18,62693.1
+Teclado,Centro-Oeste,24,1815.93,43582.32
+Mouse,Sudeste,45,747.57,33640.65
+Monitor,Norte,15,868.07,13021.05
+Fone de Ouvido,Norte,25,4935.09,123377.25
+Tablet,Nordeste,24,2004.66,48111.84
+Mouse,Sul,8,77.33,618.64
+Mouse,Centro-Oeste,11,1034.27,11376.97
+Notebook,Sudeste,8,3658.59,29268.72
+Notebook,Sul,33,3049.5,100633.5
+Teclado,Nordeste,42,1824.41,76625.22
+Tablet,Sudeste,41,4579.05,187741.05
+Smartwatch,Norte,9,3135.33,28217.97
+Smartphone,Norte,34,522.28,17757.52
+Smartphone,Nordeste,23,3360.76,77297.48
+Smartphone,Sul,37,3661.55,135477.35
+Mouse,Norte,40,1409.87,56394.8
+Notebook,Norte,35,2387.46,83561.1
+Monitor,Sul,37,4859.97,179818.89
+Monitor,Centro-Oeste,3,3815.89,11447.67
+Teclado,Sul,26,1218.13,31671.38
+Fone de Ouvido,Sudeste,14,2494.29,34920.06
+Mouse,Sul,9,3567.78,32110.02
+Notebook,Norte,26,175.82,4571.32
+Smartphone,Sudeste,13,1048.51,13630.63
+Smartwatch,Sudeste,32,3200.23,102407.36
+Teclado,Norte,32,3492.8,111769.6
+Monitor,Sul,37,1284.0,47508.0
+Smartwatch,Nordeste,45,2722.21,122499.45
+Monitor,Nordeste,29,1182.55,34293.95
+Notebook,Centro-Oeste,32,3014.38,96460.16
+Smartwatch,Norte,22,4408.32,96983.04
+Notebook,Sudeste,42,4050.2,170108.4
+Monitor,Centro-Oeste,6,2309.85,13859.1
+Notebook,Centro-Oeste,44,973.52,42834.88
+Mouse,Norte,30,4422.24,132667.2
+Mouse,Sudeste,28,1813.67,50782.76
+Monitor,Norte,33,1397.05,46102.65
+Mouse,Nordeste,27,2164.18,58432.86
+Smartwatch,Centro-Oeste,13,4310.62,56038.06
+Smartphone,Norte,39,865.05,33736.95
+Fone de Ouvido,Sul,27,2116.18,57136.86
+Teclado,Centro-Oeste,37,3477.56,128669.72
+Fone de Ouvido,Centro-Oeste,42,1721.2,72290.4
+Mouse,Centro-Oeste,15,883.04,13245.6
+Teclado,Sudeste,32,2618.01,83776.32
+Teclado,Centro-Oeste,41,2048.99,84008.59
+Fone de Ouvido,Nordeste,49,1306.88,64037.12
+Tablet,Centro-Oeste,12,1296.32,15555.84
+Smartphone,Centro-Oeste,2,3575.74,7151.48
+Fone de Ouvido,Sul,37,1459.96,54018.52
+Fone de Ouvido,Nordeste,17,1370.57,23299.69
+Monitor,Sul,2,2538.26,5076.52
+Smartphone,Nordeste,23,1429.3,32873.9
+Notebook,Sul,33,3190.04,105271.32
+Teclado,Centro-Oeste,2,2678.13,5356.26
+Mouse,Sudeste,26,4928.97,128153.22
+Smartwatch,Norte,32,2983.85,95483.2
+Teclado,Centro-Oeste,11,1879.79,20677.69
+Smartphone,Sul,17,3654.67,62129.39
+Notebook,Sul,24,2377.99,57071.76
+Monitor,Sudeste,34,3185.97,108322.98
+Fone de Ouvido,Sul,11,4091.34,45004.74
+Fone de Ouvido,Sudeste,16,4184.75,66956.0
+Tablet,Centro-Oeste,6,3494.27,20965.62
+Tablet,Sul,3,2974.92,8924.76
+Notebook,Sudeste,36,132.11,4755.96
+Smartphone,Nordeste,3,4057.03,12171.09
+Teclado,Sudeste,20,3243.61,64872.2
+Mouse,Nordeste,41,3470.14,142275.74
+Smartwatch,Sudeste,39,4686.81,182785.59
+Teclado,Sudeste,1,3394.67,3394.67
+Teclado,Centro-Oeste,25,1084.9,27122.5
+Fone de Ouvido,Sul,31,4392.83,136177.73
+Tablet,Norte,35,1181.32,41346.2
+Teclado,Centro-Oeste,16,4095.25,65524.0
+Tablet,Centro-Oeste,49,1247.17,61111.33
+Smartphone,Sudeste,48,4828.83,231783.84
+Notebook,Sul,5,4507.07,22535.35
+Tablet,Norte,9,1430.41,12873.69
+Mouse,Norte,19,3643.48,69226.12
+Notebook,Centro-Oeste,3,4288.81,12866.43
+Teclado,Nordeste,33,3228.06,106525.98
+Mouse,Norte,11,4681.39,51495.29
+Notebook,Nordeste,36,4497.84,161922.24
+Fone de Ouvido,Nordeste,20,2924.4,58488.0
+Fone de Ouvido,Sul,48,552.28,26509.44
+Teclado,Sul,35,4869.64,170437.4
+Mouse,Nordeste,18,846.0,15228.0
+Fone de Ouvido,Norte,18,2453.79,44168.22
+Notebook,Sudeste,35,3277.21,114702.35
+Smartphone,Norte,41,920.83,37754.03
+Mouse,Norte,4,1224.38,4897.52
+Tablet,Centro-Oeste,21,935.17,19638.57
+Tablet,Norte,8,4253.66,34029.28
+Notebook,Norte,17,1574.9,26773.3
+Teclado,Sul,48,513.69,24657.12
+Smartphone,Norte,22,1362.75,29980.5
+Tablet,Norte,46,2969.86,136613.56
+Notebook,Norte,38,1995.83,75841.54
+Fone de Ouvido,Sudeste,8,3174.14,25393.12
+Monitor,Sudeste,34,1782.89,60618.26
+Teclado,Norte,33,2905.67,95887.11
+Smartphone,Norte,33,1016.45,33542.85
+Mouse,Centro-Oeste,48,1439.82,69111.36
+Fone de Ouvido,Nordeste,35,3854.34,134901.9
+Teclado,Norte,17,4973.03,84541.51
+Smartphone,Centro-Oeste,30,4771.95,143158.5
+Monitor,Norte,6,1882.29,11293.74
+Mouse,Nordeste,41,4767.71,195476.11
+Smartphone,Centro-Oeste,29,2169.51,62915.79
+Teclado,Nordeste,31,4819.92,149417.52
+Monitor,Centro-Oeste,33,422.96,13957.68
+Tablet,Centro-Oeste,21,995.01,20895.21
+Smartphone,Sudeste,33,1618.76,53419.08
+Smartwatch,Centro-Oeste,18,2806.17,50511.06
+Tablet,Nordeste,31,4228.86,131094.66
+Teclado,Norte,3,2871.8,8615.4
+Monitor,Sudeste,24,1084.15,26019.6
+Smartwatch,Nordeste,47,4950.77,232686.19
+Tablet,Sudeste,2,1308.11,2616.22
+Monitor,Norte,42,4393.0,184506.0
+Mouse,Centro-Oeste,17,4250.92,72265.64
+Teclado,Sul,9,3527.3,31745.7
+Monitor,Norte,48,2786.46,133750.08
+Notebook,Norte,42,4056.34,170366.28
+Notebook,Sudeste,35,1318.22,46137.7
+Notebook,Sudeste,24,4570.54,109692.96
+Mouse,Centro-Oeste,7,2532.51,17727.57
+Smartwatch,Nordeste,45,1011.66,45524.7
+Smartphone,Sudeste,8,3524.74,28197.92
+Tablet,Nordeste,16,301.3,4820.8
+Teclado,Nordeste,23,186.7,4294.1
+Smartwatch,Norte,34,515.21,17517.14
+Teclado,Sudeste,23,3376.53,77660.19
+Tablet,Nordeste,25,817.46,20436.5
+Smartwatch,Norte,22,2974.62,65441.64
+Fone de Ouvido,Centro-Oeste,22,1288.74,28352.28
+Monitor,Sudeste,42,4121.87,173118.54
+Smartwatch,Norte,43,678.95,29194.85
+Tablet,Norte,33,4147.95,136882.35
+Teclado,Norte,44,4828.0,212432.0
+Tablet,Norte,39,472.47,18426.33
+Smartphone,Norte,45,1012.18,45548.1
+Teclado,Norte,30,2726.14,81784.2
+Mouse,Centro-Oeste,40,3644.15,145766.0
+Monitor,Norte,13,4849.21,63039.73
+Mouse,Sudeste,42,1648.63,69242.46
+Tablet,Nordeste,17,2024.16,34410.72
+Mouse,Nordeste,19,2222.91,42235.29
+Smartphone,Centro-Oeste,26,175.49,4562.74
+Tablet,Nordeste,23,2170.16,49913.68
+Smartphone,Nordeste,12,2074.32,24891.84
+Monitor,Nordeste,1,2239.64,2239.64
+Smartphone,Sudeste,32,2768.67,88597.44
+Smartphone,Norte,48,955.19,45849.12
+Notebook,Sul,45,1435.67,64605.15
+Fone de Ouvido,Sudeste,16,2607.65,41722.4
+Notebook,Centro-Oeste,5,3078.02,15390.1
+Fone de Ouvido,Centro-Oeste,3,1276.27,3828.81
+Tablet,Sudeste,16,835.3,13364.8
+Mouse,Centro-Oeste,22,121.25,2667.5
+Teclado,Nordeste,14,504.41,7061.74
+Smartwatch,Centro-Oeste,47,251.61,11825.67
+Smartwatch,Norte,46,4898.58,225334.68
+Smartwatch,Sul,5,2397.16,11985.8
+Monitor,Norte,26,3828.65,99544.9
+Teclado,Sudeste,21,2393.69,50267.49
+Smartwatch,Sudeste,33,2350.14,77554.62
+Tablet,Sudeste,37,2022.6,74836.2
+Mouse,Sul,10,4748.27,47482.7
+Notebook,Sul,36,274.25,9873.0
+Tablet,Norte,31,125.76,3898.56
+Monitor,Sudeste,19,2540.52,48269.88
+Fone de Ouvido,Norte,1,2719.92,2719.92
+Smartphone,Norte,45,856.53,38543.85
+Mouse,Norte,24,4722.26,113334.24
+Fone de Ouvido,Nordeste,2,181.23,362.46
+Smartphone,Sul,32,4704.14,150532.48
+Smartphone,Nordeste,24,3401.98,81647.52
+Smartphone,Norte,35,3234.28,113199.8
+Fone de Ouvido,Sul,33,4065.46,134160.18
+Notebook,Centro-Oeste,43,4710.25,202540.75
+Fone de Ouvido,Norte,3,4111.11,12333.33
+Smartphone,Nordeste,40,4531.49,181259.6
+Fone de Ouvido,Norte,44,1406.11,61868.84
+Teclado,Norte,12,548.85,6586.2
+Smartwatch,Norte,2,242.87,485.74
+Teclado,Nordeste,35,1715.94,60057.9
+Fone de Ouvido,Nordeste,26,1628.93,42352.18
+Teclado,Norte,26,3423.99,89023.74
+Monitor,Nordeste,34,1340.44,45574.96
+Tablet,Sul,7,634.92,4444.44
+Smartphone,Centro-Oeste,45,4686.41,210888.45
+Smartphone,Norte,36,2118.83,76277.88
+Monitor,Sudeste,36,928.33,33419.88
+Monitor,Sul,9,2864.18,25777.62
+Tablet,Nordeste,35,4953.0,173355.0
+Mouse,Norte,48,682.06,32738.88
+Fone de Ouvido,Sudeste,49,3893.24,190768.76
+Smartwatch,Sudeste,24,4342.23,104213.52
+Smartphone,Sul,32,4299.14,137572.48
+Monitor,Sul,49,3415.23,167346.27
+Fone de Ouvido,Sudeste,23,3784.99,87054.77
+Mouse,Sudeste,41,1919.76,78710.16
+Mouse,Norte,49,2551.0,124999.0
+Notebook,Nordeste,48,1978.61,94973.28
+Smartwatch,Sudeste,13,4482.84,58276.92
+Mouse,Nordeste,49,314.75,15422.75
+Fone de Ouvido,Norte,41,4243.36,173977.76
+Teclado,Centro-Oeste,9,1630.6,14675.4
+Tablet,Nordeste,14,3400.01,47600.14
+Tablet,Centro-Oeste,19,2490.48,47319.12
+Notebook,Norte,16,2269.81,36316.96
+Mouse,Centro-Oeste,35,3032.08,106122.8
+Teclado,Sudeste,21,3774.25,79259.25
+Smartphone,Sudeste,23,3917.42,90100.66
+Teclado,Centro-Oeste,39,501.47,19557.33
+Smartwatch,Centro-Oeste,42,4872.53,204646.26
+Smartphone,Nordeste,14,2770.17,38782.38
+Teclado,Sul,5,3698.33,18491.65
+Smartphone,Norte,29,1787.03,51823.87
+Mouse,Norte,18,4844.83,87206.94
+Fone de Ouvido,Nordeste,9,3819.48,34375.32
+Smartphone,Norte,44,4341.0,191004.0
+Notebook,Norte,38,466.33,17720.54
+Smartphone,Norte,13,1151.75,14972.75
+Smartphone,Norte,9,4118.21,37063.89
+Tablet,Sudeste,2,452.68,905.36
+Tablet,Centro-Oeste,37,1204.48,44565.76
+Teclado,Norte,8,1902.64,15221.12
+Mouse,Sul,1,4407.78,4407.78
+Teclado,Sul,17,4738.88,80560.96
+Smartphone,Centro-Oeste,25,2979.85,74496.25
+Smartphone,Nordeste,36,1912.48,68849.28
+Smartphone,Sul,31,2434.25,75461.75
+Mouse,Norte,44,2814.1,123820.4
+Mouse,Sul,27,1281.18,34591.86
+Mouse,Norte,19,600.43,11408.17
+Smartphone,Sudeste,3,1305.73,3917.19
+Smartwatch,Nordeste,28,2878.79,80606.12
+Mouse,Sudeste,20,638.15,12763.0
+Tablet,Nordeste,41,3733.85,153087.85
+Teclado,Centro-Oeste,3,2937.68,8813.04
+Tablet,Nordeste,49,460.31,22555.19
+Teclado,Norte,33,1156.8,38174.4
+Notebook,Centro-Oeste,6,4020.44,24122.64
+Smartwatch,Nordeste,45,4850.9,218290.5
+Teclado,Sul,47,4461.16,209674.52
+Monitor,Nordeste,21,4965.18,104268.78
+Mouse,Norte,37,1302.3,48185.1
+Teclado,Nordeste,19,4848.05,92112.95
+Notebook,Norte,18,872.77,15709.86
+Smartphone,Centro-Oeste,49,3493.96,171204.04
+Smartwatch,Sul,31,4979.37,154360.47
+Mouse,Sudeste,3,4510.73,13532.19
+Teclado,Sul,11,1440.77,15848.47
+Tablet,Sul,32,336.43,10765.76
+Teclado,Centro-Oeste,38,2305.5,87609.0
+Smartphone,Nordeste,28,1711.52,47922.56
+Fone de Ouvido,Sul,28,3251.9,91053.2
+Fone de Ouvido,Sudeste,8,1799.09,14392.72
+Monitor,Centro-Oeste,28,434.79,12174.12
+Smartwatch,Sudeste,41,1336.75,54806.75
+Monitor,Sul,27,3505.9,94659.3
+Teclado,Sudeste,17,1434.83,24392.11
+Mouse,Norte,20,3033.77,60675.4
+Mouse,Sudeste,48,854.95,41037.6
+Smartphone,Centro-Oeste,46,427.19,19650.74
+Smartphone,Sudeste,6,4751.51,28509.06
+Notebook,Sudeste,5,3086.41,15432.05
+Fone de Ouvido,Centro-Oeste,2,459.6,919.2
+Teclado,Norte,30,4337.02,130110.6
+Monitor,Centro-Oeste,45,865.93,38966.85
+Monitor,Sul,33,3899.13,128671.29
+Notebook,Sul,18,4937.02,88866.36
+Monitor,Sul,49,1914.86,93828.14
+Mouse,Nordeste,26,1935.41,50320.66
+Monitor,Centro-Oeste,22,4154.36,91395.92
+Teclado,Sul,49,4199.73,205786.77
+Smartwatch,Centro-Oeste,34,232.27,7897.18
+Notebook,Nordeste,1,117.68,117.68
+Smartwatch,Norte,6,3473.99,20843.94
+Smartphone,Nordeste,5,4998.6,24993.0
+Monitor,Nordeste,38,4570.17,173666.46
+Tablet,Centro-Oeste,23,3856.49,88699.27
+Smartphone,Nordeste,37,3797.55,140509.35
+Smartwatch,Norte,19,1274.37,24213.03
+Monitor,Nordeste,14,1064.97,14909.58
+Tablet,Sul,1,4772.55,4772.55
+Monitor,Norte,13,1075.78,13985.14
+Tablet,Sudeste,1,3374.92,3374.92
+Mouse,Sudeste,32,282.14,9028.48
+Mouse,Sudeste,31,612.11,18975.41
+Teclado,Sudeste,26,2515.92,65413.92
+Tablet,Nordeste,3,2624.81,7874.43
+Notebook,Sul,12,4091.11,49093.32
+Notebook,Nordeste,44,2826.64,124372.16
+Fone de Ouvido,Norte,30,3969.5,119085.0
+Smartwatch,Sudeste,17,713.38,12127.46
+Mouse,Sul,47,2131.65,100187.55
+Notebook,Sul,37,3120.53,115459.61
+Smartwatch,Sudeste,2,4034.97,8069.94
+Tablet,Centro-Oeste,39,725.04,28276.56
+Fone de Ouvido,Sul,34,1785.41,60703.94
+Smartwatch,Nordeste,34,3201.39,108847.26
+Teclado,Sul,15,2215.5,33232.5
+Smartphone,Norte,34,1773.86,60311.24
+Notebook,Centro-Oeste,38,2282.01,86716.38
+Mouse,Sul,15,2012.89,30193.35
+Smartwatch,Norte,42,4318.7,181385.4
+Notebook,Centro-Oeste,5,3992.54,19962.7
+Monitor,Sul,10,4636.61,46366.1
+Smartwatch,Sudeste,10,3856.14,38561.4
+Smartwatch,Centro-Oeste,20,2322.72,46454.4
+Mouse,Nordeste,34,3122.99,106181.66
+Monitor,Norte,2,1677.32,3354.64
+Notebook,Sudeste,43,2919.27,125528.61
+Mouse,Nordeste,11,425.52,4680.72
+Tablet,Norte,23,683.83,15728.09
+Teclado,Sudeste,31,2031.49,62976.19
+Tablet,Centro-Oeste,16,3222.33,51557.28
+Fone de Ouvido,Sul,40,3497.68,139907.2
+Mouse,Centro-Oeste,25,4489.1,112227.5
+Mouse,Sudeste,3,2600.42,7801.26
+Notebook,Nordeste,32,902.98,28895.36
+Teclado,Nordeste,19,4117.86,78239.34
+Smartphone,Sudeste,18,1429.02,25722.36
+Mouse,Centro-Oeste,22,489.08,10759.76
+Mouse,Sul,1,2695.4,2695.4
+Notebook,Sul,12,1071.35,12856.2
+Mouse,Sul,34,687.3,23368.2
+Fone de Ouvido,Nordeste,26,3467.45,90153.7
+Smartphone,Centro-Oeste,9,506.84,4561.56
+Monitor,Centro-Oeste,47,3158.11,148431.17
+Notebook,Sudeste,47,2582.7,121386.9
+Monitor,Centro-Oeste,43,4608.32,198157.76
+Notebook,Sudeste,17,1420.54,24149.18
+Smartwatch,Centro-Oeste,1,468.36,468.36
+Teclado,Norte,35,963.38,33718.3
+Tablet,Nordeste,15,2706.12,40591.8
+Notebook,Sudeste,22,1218.78,26813.16
+Tablet,Sudeste,28,1876.12,52531.36
+Smartwatch,Sudeste,24,3616.55,86797.2
+Smartphone,Sudeste,26,231.58,6021.08
+Fone de Ouvido,Sul,7,3451.47,24160.29
+Tablet,Sudeste,23,2582.8,59404.4
+Smartwatch,Sul,47,200.84,9439.48
+Smartphone,Centro-Oeste,18,2264.69,40764.42
+Mouse,Norte,35,2015.96,70558.6
+Fone de Ouvido,Sul,25,3700.16,92504.0
+Mouse,Centro-Oeste,28,149.35,4181.8
+Notebook,Norte,17,1096.67,18643.39
+Smartphone,Nordeste,26,2699.91,70197.66
+Smartphone,Norte,25,4458.11,111452.75
+Smartwatch,Norte,20,2396.15,47923.0
+Mouse,Sudeste,10,3956.4,39564.0
+Tablet,Nordeste,45,2423.93,109076.85
+Tablet,Nordeste,36,2708.68,97512.48
+Fone de Ouvido,Sudeste,34,2810.82,95567.88
+Monitor,Sudeste,40,2186.71,87468.4
+Smartphone,Norte,19,1924.92,36573.48
+Smartwatch,Sudeste,37,1847.26,68348.62
+Notebook,Sul,26,3057.4,79492.4
+Smartwatch,Sul,45,1685.22,75834.9
+Monitor,Centro-Oeste,33,87.3,2880.9
+Fone de Ouvido,Centro-Oeste,21,806.65,16939.65
+Tablet,Nordeste,48,845.37,40577.76
+Fone de Ouvido,Sudeste,11,485.04,5335.44
+Notebook,Sul,30,908.2,27246.0
+Monitor,Nordeste,9,447.16,4024.44
+Mouse,Norte,31,2081.46,64525.26
+Smartphone,Norte,36,4986.41,179510.76
+Fone de Ouvido,Sudeste,6,2019.39,12116.34
+Notebook,Sul,28,4591.11,128551.08
+Smartwatch,Nordeste,15,4094.51,61417.65
+Monitor,Norte,49,2479.21,121481.29
+Teclado,Norte,38,3359.78,127671.64
+Teclado,Sudeste,2,2805.98,5611.96
+Mouse,Sul,8,2409.27,19274.16
+Mouse,Nordeste,45,3858.99,173654.55
+Smartwatch,Centro-Oeste,6,4841.57,29049.42
+Monitor,Nordeste,4,2155.91,8623.64
+Notebook,Centro-Oeste,33,3694.42,121915.86
+Tablet,Nordeste,12,618.44,7421.28
+Smartwatch,Sul,26,3850.51,100113.26
+Monitor,Sudeste,38,2927.13,111230.94
+Tablet,Centro-Oeste,11,4663.47,51298.17
+Teclado,Sul,13,2686.32,34922.16
+Notebook,Nordeste,33,1877.69,61963.77
+Notebook,Sudeste,10,2765.59,27655.9
+Mouse,Sul,10,4950.3,49503.0
+Notebook,Centro-Oeste,13,3438.63,44702.19
+Teclado,Sul,20,1310.47,26209.4
+Teclado,Norte,37,63.42,2346.54
+Monitor,Sul,9,2998.41,26985.69
+Fone de Ouvido,Nordeste,24,3050.2,73204.8
+Notebook,Sul,35,1776.9,62191.5
+Smartwatch,Sul,49,4261.1,208793.9
+Teclado,Sudeste,44,2072.17,91175.48
+Teclado,Sudeste,11,4694.79,51642.69
+Monitor,Norte,12,1927.18,23126.16
+Monitor,Sul,1,3718.55,3718.55
+Notebook,Sudeste,22,288.07,6337.54
+Monitor,Norte,29,741.87,21514.23
+Smartwatch,Sudeste,41,3764.98,154364.18
+Fone de Ouvido,Nordeste,30,4134.41,124032.3
+Tablet,Sudeste,37,4082.14,151039.18
+Monitor,Sudeste,14,2639.17,36948.38
+Teclado,Centro-Oeste,4,1615.17,6460.68
+Notebook,Centro-Oeste,42,1992.6,83689.2
+Fone de Ouvido,Norte,40,2287.15,91486.0
+Mouse,Norte,40,1915.87,76634.8
+Mouse,Nordeste,38,2721.92,103432.96
+Smartphone,Norte,15,2908.56,43628.4
+Monitor,Norte,17,4502.89,76549.13
+Tablet,Sul,2,2740.59,5481.18
+Smartwatch,Sul,40,1183.68,47347.2
+Smartphone,Sul,39,628.65,24517.35
+Smartwatch,Sudeste,6,1697.44,10184.64
+Fone de Ouvido,Sudeste,8,3483.9,27871.2
+Monitor,Nordeste,15,4399.21,65988.15
+Tablet,Norte,33,2690.63,88790.79
+Monitor,Centro-Oeste,39,2887.1,112596.9
+Fone de Ouvido,Sul,29,800.79,23222.91
+Smartphone,Sul,33,3549.55,117135.15
+Smartphone,Nordeste,27,3732.53,100778.31
+Notebook,Centro-Oeste,4,2870.95,11483.8
+Smartphone,Sul,10,2495.21,24952.1
+Smartwatch,Centro-Oeste,10,1743.3,17433.0
+Smartwatch,Sudeste,38,2705.58,102812.04
+Notebook,Nordeste,47,4239.94,199277.18
+Tablet,Nordeste,24,3039.59,72950.16
+Notebook,Centro-Oeste,15,3996.61,59949.15
+Smartphone,Norte,5,2457.47,12287.35
+Monitor,Sudeste,4,3625.15,14500.6
+Notebook,Nordeste,2,110.41,220.82
+Monitor,Sul,36,2736.49,98513.64
+Mouse,Centro-Oeste,43,3015.2,129653.6
+Smartphone,Sudeste,20,948.91,18978.2
+Fone de Ouvido,Norte,10,1745.5,17455.0
+Smartwatch,Nordeste,6,2034.21,12205.26
+Mouse,Sul,47,1475.25,69336.75
+Tablet,Centro-Oeste,43,809.09,34790.87
+Fone de Ouvido,Norte,13,738.63,9602.19
+Smartwatch,Sudeste,18,3076.7,55380.6
+Fone de Ouvido,Nordeste,47,3644.17,171275.99
+Smartphone,Centro-Oeste,43,4663.99,200551.57
+Monitor,Centro-Oeste,36,4597.82,165521.52
+Teclado,Norte,5,4616.37,23081.85
+Monitor,Centro-Oeste,8,3274.27,26194.16
+Mouse,Nordeste,49,2902.63,142228.87
+Smartwatch,Norte,9,2149.45,19345.05
+Notebook,Nordeste,29,566.02,16414.58
+Smartphone,Centro-Oeste,41,4631.56,189893.96
+Teclado,Centro-Oeste,23,657.91,15131.93
+Notebook,Norte,37,4924.96,182223.52
+Fone de Ouvido,Centro-Oeste,46,972.29,44725.34
+Monitor,Centro-Oeste,23,4608.17,105987.91
+Mouse,Nordeste,40,3059.08,122363.2
+Smartwatch,Norte,47,321.07,15090.29
+Fone de Ouvido,Sul,9,1067.62,9608.58
+Smartphone,Nordeste,26,1700.82,44221.32
+Mouse,Nordeste,25,4324.41,108110.25
+Fone de Ouvido,Sudeste,38,1764.41,67047.58
+Smartphone,Centro-Oeste,18,2430.14,43742.52
+Smartwatch,Nordeste,27,2288.48,61788.96
+Mouse,Sul,43,212.59,9141.37
+Tablet,Norte,24,2909.28,69822.72
+Tablet,Sul,6,217.7,1306.2
+Notebook,Nordeste,33,1843.85,60847.05
+Notebook,Sudeste,43,3179.71,136727.53
+Fone de Ouvido,Norte,28,1102.77,30877.56
+Notebook,Nordeste,49,931.28,45632.72
+Notebook,Centro-Oeste,20,2322.0,46440.0
+Monitor,Sul,20,2102.39,42047.8
+Tablet,Nordeste,28,2698.6,75560.8
+Tablet,Nordeste,40,2535.87,101434.8
+Mouse,Norte,1,1584.19,1584.19
+Smartphone,Sul,30,3762.3,112869.0
+Fone de Ouvido,Centro-Oeste,19,1779.47,33809.93
+Notebook,Centro-Oeste,30,993.9,29817.0
+Smartwatch,Sul,45,1919.74,86388.3
+Teclado,Nordeste,16,2845.96,45535.36
+Smartwatch,Norte,18,1505.52,27099.36
+Mouse,Norte,47,2661.86,125107.42
+Monitor,Sul,28,2431.39,68078.92
+Fone de Ouvido,Norte,30,2820.22,84606.6
+Fone de Ouvido,Nordeste,4,950.54,3802.16
+Smartphone,Sul,29,423.74,12288.46
+Fone de Ouvido,Centro-Oeste,3,1897.88,5693.64
+Teclado,Nordeste,10,4492.28,44922.8
+Mouse,Nordeste,34,2073.23,70489.82
+Fone de Ouvido,Norte,23,4895.71,112601.33
+Smartphone,Sul,32,3594.06,115009.92
+Notebook,Sudeste,29,2069.52,60016.08
+Mouse,Sul,3,1193.82,3581.46
+Teclado,Nordeste,8,565.34,4522.72
+Mouse,Sudeste,47,2868.75,134831.25
+Notebook,Centro-Oeste,33,2805.77,92590.41
+Smartwatch,Centro-Oeste,8,542.23,4337.84
+Tablet,Sul,32,4944.21,158214.72
+Tablet,Centro-Oeste,32,4285.7,137142.4
+Tablet,Nordeste,43,4815.11,207049.73
+Smartphone,Norte,37,748.36,27689.32
+Monitor,Norte,14,1501.08,21015.12
+Mouse,Nordeste,48,480.28,23053.44
+Teclado,Centro-Oeste,10,473.27,4732.7
+Teclado,Sudeste,23,4248.23,97709.29
+Smartphone,Sul,48,948.11,45509.28
+Mouse,Sudeste,36,3232.48,116369.28
+Fone de Ouvido,Nordeste,18,4468.72,80436.96
+Teclado,Centro-Oeste,47,3142.57,147700.79
+Notebook,Norte,11,1334.15,14675.65
+Tablet,Sul,2,1847.14,3694.28
+Notebook,Sul,12,4161.74,49940.88
+Teclado,Norte,37,2076.59,76833.83
+Fone de Ouvido,Norte,30,1845.65,55369.5
+Smartphone,Norte,44,1136.58,50009.52
+Smartphone,Norte,22,3909.81,86015.82
+Smartwatch,Norte,17,4348.92,73931.64
+Monitor,Sul,46,2381.77,109561.42
+Smartwatch,Centro-Oeste,32,2154.81,68953.92
+Mouse,Sul,17,1379.95,23459.15
+Mouse,Nordeste,40,3509.29,140371.6
+Notebook,Centro-Oeste,25,1326.54,33163.5
+Tablet,Norte,22,4182.9,92023.8
+Monitor,Nordeste,4,704.77,2819.08
+Smartwatch,Centro-Oeste,29,899.81,26094.49
+Notebook,Nordeste,23,3431.76,78930.48
+Fone de Ouvido,Norte,6,4575.78,27454.68
+Smartphone,Centro-Oeste,21,4084.52,85774.92
+Monitor,Norte,41,1406.57,57669.37
+Monitor,Norte,17,2055.98,34951.66
+Smartphone,Centro-Oeste,38,4157.22,157974.36
+Mouse,Sul,23,577.56,13283.88
+Teclado,Sudeste,22,727.58,16006.76
+Tablet,Sudeste,31,4375.76,135648.56
+Smartwatch,Sudeste,40,1291.12,51644.8
+Notebook,Nordeste,45,3341.93,150386.85
+Tablet,Sudeste,7,2887.81,20214.67
+Monitor,Sudeste,17,2122.91,36089.47
+Notebook,Sul,28,3866.01,108248.28
+Teclado,Centro-Oeste,46,282.48,12994.08
+Monitor,Sudeste,43,962.64,41393.52
+Smartwatch,Centro-Oeste,36,3866.38,139189.68
+Mouse,Sul,29,1977.01,57333.29
+Smartwatch,Centro-Oeste,40,2214.11,88564.4
+Notebook,Sudeste,36,3609.28,129934.08
+Smartphone,Sul,39,3071.5,119788.5
+Tablet,Norte,34,2013.41,68455.94
+Smartwatch,Norte,24,4687.31,112495.44
+Smartwatch,Nordeste,5,2444.59,12222.95
+Smartphone,Sudeste,36,2722.22,97999.92
+Fone de Ouvido,Centro-Oeste,19,2995.64,56917.16
+Teclado,Sul,43,4239.72,182307.96
+Teclado,Sul,45,815.63,36703.35
+Teclado,Sudeste,9,3866.02,34794.18
+Teclado,Centro-Oeste,9,421.93,3797.37
+Notebook,Sudeste,17,2093.33,35586.61
+Teclado,Sul,43,3011.52,129495.36
+Tablet,Sudeste,25,1269.69,31742.25
+Tablet,Nordeste,3,434.94,1304.82
+Monitor,Nordeste,44,3488.75,153505.0
+Fone de Ouvido,Nordeste,30,76.01,2280.3
+Fone de Ouvido,Norte,12,1836.82,22041.84
+Fone de Ouvido,Centro-Oeste,44,4046.78,178058.32
+Tablet,Nordeste,49,727.25,35635.25
+Monitor,Nordeste,10,3468.27,34682.7
+Teclado,Centro-Oeste,49,966.41,47354.09
+Smartwatch,Sudeste,16,4371.08,69937.28
+Mouse,Sudeste,8,3212.8,25702.4
+Smartwatch,Sul,17,3310.98,56286.66
+Fone de Ouvido,Sul,16,4253.52,68056.32
+Fone de Ouvido,Centro-Oeste,25,4521.65,113041.25
+Tablet,Sul,12,1144.99,13739.88
+Monitor,Norte,26,305.4,7940.4
+Notebook,Norte,26,245.16,6374.16
+Tablet,Centro-Oeste,10,2961.91,29619.1
+Notebook,Sudeste,17,943.85,16045.45
+Tablet,Centro-Oeste,21,2392.39,50240.19
+Smartphone,Norte,7,218.03,1526.21
+Mouse,Sudeste,7,1521.88,10653.16
+Teclado,Sudeste,48,620.65,29791.2
+Smartwatch,Norte,23,3986.94,91699.62
+Mouse,Sul,31,4317.11,133830.41
+Notebook,Centro-Oeste,39,2302.96,89815.44
+Fone de Ouvido,Sul,42,3240.51,136101.42
+Mouse,Sul,14,3001.54,42021.56
+Fone de Ouvido,Centro-Oeste,35,2825.35,98887.25
+Notebook,Centro-Oeste,45,430.92,19391.4
+Tablet,Sul,37,2674.81,98967.97
+Notebook,Norte,26,3637.6,94577.6
+Fone de Ouvido,Sul,44,2883.52,126874.88
+Smartwatch,Sul,49,2715.09,133039.41
+Monitor,Sudeste,22,1627.82,35812.04
+Tablet,Nordeste,18,2624.83,47246.94
+Teclado,Nordeste,45,3098.52,139433.4
+Smartwatch,Centro-Oeste,2,170.78,341.56
+Smartwatch,Norte,42,4952.19,207991.98
+Monitor,Sudeste,13,2668.24,34687.12
+Tablet,Centro-Oeste,32,4666.32,149322.24
+Tablet,Sudeste,39,96.95,3781.05
+Notebook,Centro-Oeste,29,3847.58,111579.82
+Smartwatch,Nordeste,29,236.1,6846.9
+Notebook,Centro-Oeste,44,3156.15,138870.6
+Tablet,Sul,44,4921.21,216533.24
+Mouse,Sul,10,503.91,5039.1
+Monitor,Centro-Oeste,39,2636.47,102822.33
+Notebook,Sudeste,1,1231.95,1231.95
+Tablet,Centro-Oeste,3,2363.19,7089.57
+Mouse,Nordeste,30,4271.47,128144.1
+Tablet,Sudeste,18,1206.36,21714.48
+Smartwatch,Sul,25,1422.46,35561.5
+Notebook,Centro-Oeste,46,273.25,12569.5
+Tablet,Sudeste,15,1952.42,29286.3
+Smartwatch,Sul,24,665.97,15983.28
+Fone de Ouvido,Sul,37,3942.41,145869.17
+Smartphone,Norte,43,2963.34,127423.62
+Monitor,Sul,39,4401.64,171663.96
+Mouse,Centro-Oeste,46,3023.95,139101.7
+Teclado,Centro-Oeste,13,4946.47,64304.11
+Tablet,Sudeste,7,4956.28,34693.96
+Teclado,Centro-Oeste,8,4716.52,37732.16
+Fone de Ouvido,Nordeste,45,645.68,29055.6
+Monitor,Nordeste,43,923.81,39723.83
+Teclado,Centro-Oeste,26,231.82,6027.32
+Smartphone,Norte,3,4139.72,12419.16
+Teclado,Sul,5,336.32,1681.6
+Smartphone,Centro-Oeste,47,1120.8,52677.6
+Mouse,Centro-Oeste,9,4642.37,41781.33
+Tablet,Sul,49,910.78,44628.22
+Mouse,Norte,42,2600.48,109220.16
+Monitor,Centro-Oeste,18,3495.3,62915.4
+Teclado,Nordeste,24,4492.31,107815.44
+Smartphone,Sul,35,1160.98,40634.3
+Teclado,Nordeste,47,222.58,10461.26
+Fone de Ouvido,Centro-Oeste,4,2921.43,11685.72
+Teclado,Centro-Oeste,34,2314.29,78685.86
+Teclado,Centro-Oeste,3,1401.15,4203.45
+Fone de Ouvido,Sul,29,4449.3,129029.7
+Notebook,Norte,25,4268.36,106709.0
+Tablet,Centro-Oeste,42,4057.1,170398.2
+Smartwatch,Centro-Oeste,40,4661.37,186454.8
+Mouse,Nordeste,11,480.58,5286.38
+Teclado,Nordeste,24,1300.61,31214.64
+Monitor,Centro-Oeste,38,1335.78,50759.64
+Teclado,Norte,5,291.48,1457.4
+Notebook,Sul,18,451.18,8121.24
+Smartwatch,Centro-Oeste,48,3432.13,164742.24
+Smartwatch,Centro-Oeste,5,4957.8,24789.0
+Smartphone,Sul,40,4420.39,176815.6
+Smartwatch,Norte,29,4537.24,131579.96
+Fone de Ouvido,Norte,3,1771.66,5314.98
+Monitor,Sul,34,2741.71,93218.14
+Notebook,Centro-Oeste,13,1371.79,17833.27
+Notebook,Sul,6,2630.24,15781.44
+Fone de Ouvido,Sul,16,3309.34,52949.44
+Tablet,Sul,33,828.84,27351.72
+Teclado,Sudeste,48,3556.4,170707.2
+Smartwatch,Sul,43,1231.52,52955.36
+Mouse,Sul,42,573.88,24102.96
+Notebook,Nordeste,27,3775.95,101950.65
+Fone de Ouvido,Norte,7,4414.1,30898.7
+Monitor,Sul,45,4365.63,196453.35
+Monitor,Sul,31,4137.79,128271.49
+Notebook,Centro-Oeste,10,4108.74,41087.4
+Tablet,Sudeste,30,4548.07,136442.1
+Smartwatch,Norte,18,4098.94,73780.92
+Notebook,Norte,14,3795.35,53134.9
+Mouse,Nordeste,12,81.61,979.32
+Smartwatch,Sul,32,466.29,14921.28
+Tablet,Sul,27,4906.87,132485.49
+Tablet,Centro-Oeste,17,623.43,10598.31
+Mouse,Sudeste,34,3188.33,108403.22
+Fone de Ouvido,Nordeste,24,4102.46,98459.04
+Fone de Ouvido,Nordeste,48,579.55,27818.4
+Notebook,Nordeste,30,141.22,4236.6
+Smartwatch,Norte,41,4816.81,197489.21
+Tablet,Sul,28,3181.48,89081.44
+Smartphone,Norte,30,3780.81,113424.3
+Smartphone,Sul,22,4689.28,103164.16
+Mouse,Sul,32,3865.73,123703.36
+Tablet,Norte,4,1539.77,6159.08
+Fone de Ouvido,Centro-Oeste,17,3866.37,65728.29
+Monitor,Sul,17,2931.74,49839.58
+Notebook,Sul,1,336.71,336.71
+Teclado,Nordeste,18,4364.11,78553.98
+Teclado,Sul,47,4845.95,227759.65
+Fone de Ouvido,Norte,36,3255.49,117197.64
+Notebook,Nordeste,12,171.71,2060.52
+Teclado,Sudeste,11,4116.49,45281.39
+Notebook,Sudeste,47,2468.78,116032.66
+Smartwatch,Nordeste,11,3432.31,37755.41
+Monitor,Centro-Oeste,26,836.74,21755.24
+Monitor,Nordeste,34,4985.77,169516.18
+Smartphone,Sudeste,17,555.86,9449.62
+Teclado,Centro-Oeste,41,859.94,35257.54
+Notebook,Norte,29,3483.73,101028.17
+Monitor,Nordeste,32,457.79,14649.28
+Smartphone,Nordeste,14,1188.77,16642.78
+Fone de Ouvido,Norte,11,1402.63,15428.93
+Teclado,Centro-Oeste,17,4818.02,81906.34
+Tablet,Sudeste,28,3669.79,102754.12
+Smartphone,Sul,47,2127.65,99999.55
+Fone de Ouvido,Nordeste,20,2018.09,40361.8
+Teclado,Norte,5,4920.69,24603.45
+Tablet,Centro-Oeste,1,1637.68,1637.68
+Monitor,Sul,38,1188.28,45154.64
+Fone de Ouvido,Centro-Oeste,35,204.11,7143.85
+Mouse,Centro-Oeste,25,3588.87,89721.75
+Teclado,Centro-Oeste,18,4328.57,77914.26
+Notebook,Norte,16,2739.0,43824.0
+Tablet,Sul,46,1058.32,48682.72
+Mouse,Sul,29,3894.15,112930.35
+Fone de Ouvido,Norte,15,2295.78,34436.7
+Monitor,Centro-Oeste,7,3149.79,22048.53
+Smartwatch,Sul,44,211.0,9284.0
+Tablet,Nordeste,3,968.02,2904.06
+Tablet,Norte,15,2433.54,36503.1
+Smartphone,Norte,14,3011.72,42164.08
+Smartwatch,Centro-Oeste,44,1275.32,56114.08
+Fone de Ouvido,Norte,9,1042.6,9383.4
+Mouse,Sudeste,22,2930.76,64476.72
+Tablet,Norte,2,3997.92,7995.84
+Tablet,Sul,11,4922.54,54147.94
+Smartwatch,Norte,17,107.52,1827.84
+Fone de Ouvido,Nordeste,18,3418.26,61528.68
+Fone de Ouvido,Sudeste,18,2425.7,43662.6
+Smartphone,Nordeste,31,3623.34,112323.54
+Tablet,Nordeste,11,3490.16,38391.76
+Monitor,Centro-Oeste,33,4765.61,157265.13
+Smartwatch,Norte,41,246.11,10090.51
+Notebook,Sul,22,3758.35,82683.7
+Notebook,Nordeste,41,1248.12,51172.92
+Smartwatch,Norte,46,755.35,34746.1
+Notebook,Norte,16,2437.66,39002.56
+Notebook,Sul,28,3527.2,98761.6
+Notebook,Centro-Oeste,10,3890.23,38902.3
+Monitor,Sul,33,2612.67,86218.11
+Tablet,Sudeste,33,4418.54,145811.82
+Teclado,Norte,30,214.36,6430.8
+Mouse,Nordeste,26,2014.77,52384.02
+Smartwatch,Centro-Oeste,2,4888.46,9776.92
+Fone de Ouvido,Centro-Oeste,26,3462.85,90034.1
+Fone de Ouvido,Nordeste,15,1040.74,15611.1
+Teclado,Nordeste,44,567.61,24974.84
+Smartwatch,Nordeste,11,664.89,7313.79
+Mouse,Norte,6,2994.14,17964.84
+Tablet,Sul,9,307.26,2765.34
+Teclado,Centro-Oeste,32,1529.24,48935.68
+Mouse,Centro-Oeste,12,4361.3,52335.6
+Teclado,Nordeste,28,4018.55,112519.4
+Mouse,Sudeste,47,4083.38,191918.86
+Monitor,Sul,7,3321.06,23247.42
+Notebook,Centro-Oeste,16,2760.58,44169.28
+Smartphone,Norte,22,2288.98,50357.56
+Mouse,Sul,3,251.73,755.19
+Mouse,Sudeste,42,2221.11,93286.62
+Tablet,Norte,18,348.74,6277.32
+Notebook,Centro-Oeste,23,3268.96,75186.08
+Teclado,Centro-Oeste,25,4365.33,109133.25
+Smartphone,Sul,19,4880.53,92730.07
+Notebook,Centro-Oeste,36,3734.18,134430.48
+Smartwatch,Norte,29,3959.01,114811.29
+Mouse,Norte,32,2516.07,80514.24
+Monitor,Centro-Oeste,18,153.26,2758.68
+Notebook,Sudeste,19,1180.85,22436.15
+Monitor,Norte,32,2735.27,87528.64
+Fone de Ouvido,Sul,3,453.56,1360.68
+Smartphone,Sul,35,1141.78,39962.3
+Smartwatch,Nordeste,15,1325.53,19882.95
+Notebook,Sudeste,12,912.26,10947.12
+Mouse,Sudeste,21,3649.49,76639.29
+Fone de Ouvido,Norte,24,2156.19,51748.56
+Notebook,Nordeste,4,3689.98,14759.92
+Monitor,Sudeste,20,2548.98,50979.6
+Notebook,Nordeste,49,2594.28,127119.72
+Mouse,Norte,41,2221.15,91067.15
+Teclado,Centro-Oeste,34,2459.01,83606.34
+Tablet,Sudeste,2,3008.73,6017.46
+Teclado,Norte,36,2137.52,76950.72
+Smartwatch,Norte,42,4961.06,208364.52
+Monitor,Norte,12,1950.04,23400.48
+Tablet,Centro-Oeste,18,3176.22,57171.96
+Mouse,Norte,15,1217.17,18257.55
+Monitor,Sul,26,3593.33,93426.58
+Smartphone,Norte,48,3029.18,145400.64
+Smartphone,Sudeste,42,1225.84,51485.28
+Monitor,Sudeste,14,2587.45,36224.3
+Fone de Ouvido,Nordeste,37,4279.21,158330.77
+Monitor,Centro-Oeste,45,2213.97,99628.65
+Monitor,Nordeste,47,2984.95,140292.65
+Fone de Ouvido,Centro-Oeste,39,1828.21,71300.19
+Smartwatch,Sul,2,521.54,1043.08
+Smartwatch,Sudeste,17,1985.85,33759.45
+Monitor,Norte,28,1327.76,37177.28
+Fone de Ouvido,Norte,37,94.7,3503.9
+Smartphone,Norte,1,3878.69,3878.69
+Smartphone,Centro-Oeste,36,4850.61,174621.96
+Notebook,Nordeste,47,1211.64,56947.08
+Monitor,Centro-Oeste,10,413.81,4138.1
+Notebook,Nordeste,14,1687.9,23630.6
+Teclado,Sudeste,29,1718.17,49826.93
+Smartwatch,Centro-Oeste,30,771.5,23145.0
+Smartphone,Norte,5,1281.14,6405.7
+Smartphone,Sudeste,43,4745.49,204056.07
+Smartwatch,Nordeste,20,1927.83,38556.6
+Smartwatch,Centro-Oeste,43,3695.19,158893.17
+Monitor,Norte,37,2690.88,99562.56
+Mouse,Nordeste,49,4228.64,207203.36
+Tablet,Sul,44,2259.52,99418.88
+Smartphone,Sul,47,4347.94,204353.18
+Mouse,Sudeste,44,2722.53,119791.32
+Smartwatch,Centro-Oeste,20,1385.26,27705.2
+Mouse,Norte,2,658.71,1317.42
+Smartphone,Nordeste,37,4686.2,173389.4
+Teclado,Centro-Oeste,29,3218.01,93322.29
+Tablet,Centro-Oeste,35,2288.39,80093.65
+Mouse,Nordeste,5,561.38,2806.9
+Notebook,Sul,14,3456.63,48392.82
+Mouse,Nordeste,20,4933.82,98676.4
+Smartphone,Sul,24,3445.54,82692.96
+Tablet,Sudeste,34,1649.5,56083.0
+Tablet,Sul,29,4346.2,126039.8
+Smartphone,Sudeste,31,1308.41,40560.71
+Smartwatch,Nordeste,43,2469.79,106200.97
+Tablet,Centro-Oeste,44,2684.61,118122.84
+Notebook,Centro-Oeste,23,198.37,4562.51
+Fone de Ouvido,Sudeste,45,760.53,34223.85
+Fone de Ouvido,Norte,42,3677.85,154469.7
+Smartphone,Centro-Oeste,8,4851.06,38808.48
+Teclado,Norte,1,3667.61,3667.61
+Fone de Ouvido,Sudeste,29,2246.56,65150.24
+Mouse,Sul,5,4818.57,24092.85
+Mouse,Nordeste,47,3478.5,163489.5
+Smartphone,Nordeste,26,1902.77,49472.02
+Mouse,Norte,30,2511.02,75330.6
+Smartphone,Sudeste,17,4162.84,70768.28
+Smartwatch,Sul,47,2874.52,135102.44
+Smartphone,Sudeste,12,609.89,7318.68
+Smartphone,Nordeste,25,3463.16,86579.0
+Monitor,Centro-Oeste,33,3023.02,99759.66
+Monitor,Sul,31,3311.48,102655.88
+Mouse,Nordeste,48,3273.6,157132.8
+Smartwatch,Sudeste,26,1775.44,46161.44
+Tablet,Sul,2,4997.1,9994.2
+Tablet,Sul,6,1624.65,9747.9
+Mouse,Sudeste,33,2064.19,68118.27
+Mouse,Centro-Oeste,48,3774.52,181176.96
+Tablet,Sudeste,13,1478.99,19226.87
+Monitor,Sul,11,4398.65,48385.15
+Monitor,Sudeste,38,1668.81,63414.78
+Notebook,Norte,38,2218.95,84320.1
+Teclado,Sul,34,3823.31,129992.54
+Smartphone,Sul,41,1620.12,66424.92
+Mouse,Sudeste,45,4098.28,184422.6
+Notebook,Sudeste,24,1519.5,36468.0
+Mouse,Nordeste,7,78.51,549.57
+Teclado,Norte,15,3169.53,47542.95
+Fone de Ouvido,Nordeste,7,2839.02,19873.14
+Monitor,Sudeste,19,1973.36,37493.84
+Fone de Ouvido,Sudeste,25,3002.6,75065.0
+Smartphone,Norte,32,1897.6,60723.2
+Smartphone,Sul,44,122.6,5394.4
+Fone de Ouvido,Norte,11,3037.07,33407.77
+Smartphone,Sudeste,46,3230.75,148614.5
+Notebook,Nordeste,2,2344.3,4688.6
+Tablet,Centro-Oeste,3,2734.7,8204.1
+Mouse,Nordeste,8,2619.45,20955.6
+Smartphone,Norte,6,4575.47,27452.82
+Teclado,Centro-Oeste,29,1739.18,50436.22
+Notebook,Sul,12,787.51,9450.12
+Smartphone,Sudeste,48,2921.85,140248.8
+Notebook,Sul,44,2409.64,106024.16
+Notebook,Nordeste,43,3836.17,164955.31
+Tablet,Norte,6,3747.03,22482.18
+Smartphone,Sudeste,44,4779.84,210312.96
+Tablet,Norte,45,4120.85,185438.25
+Fone de Ouvido,Centro-Oeste,43,87.44,3759.92
+Notebook,Sudeste,47,402.84,18933.48
+Mouse,Norte,15,1255.24,18828.6
+Notebook,Nordeste,11,1931.37,21245.07
+Notebook,Sudeste,4,4675.46,18701.84
+Fone de Ouvido,Centro-Oeste,22,1013.06,22287.32
+Smartphone,Norte,14,2455.07,34370.98
+Mouse,Norte,48,2639.27,126684.96
+Fone de Ouvido,Sul,46,1571.09,72270.14
+Mouse,Nordeste,47,2684.69,126180.43
+Monitor,Centro-Oeste,8,1590.97,12727.76
+Fone de Ouvido,Sul,36,3602.3,129682.8
+Fone de Ouvido,Norte,2,1399.49,2798.98
+Tablet,Norte,4,4124.71,16498.84
+Monitor,Nordeste,30,946.69,28400.7
+Mouse,Sul,31,4304.11,133427.41
+Monitor,Norte,39,2649.56,103332.84
+Monitor,Sudeste,7,1511.63,10581.41
+Smartwatch,Sudeste,49,2858.2,140051.8
+Monitor,Norte,42,4592.87,192900.54
+Teclado,Sul,20,2443.55,48871.0
+Smartphone,Nordeste,7,4087.96,28615.72
+Teclado,Sudeste,44,264.89,11655.16
+Fone de Ouvido,Norte,42,605.91,25448.22
+Tablet,Sul,13,3027.98,39363.74
+Notebook,Norte,21,4426.82,92963.22
+Smartwatch,Nordeste,9,3979.03,35811.27
+Notebook,Sudeste,15,3074.36,46115.4
+Mouse,Centro-Oeste,42,4505.11,189214.62
+Tablet,Centro-Oeste,16,2805.35,44885.6
+Smartphone,Sul,27,3913.6,105667.2
+Fone de Ouvido,Nordeste,24,4121.94,98926.56
+Teclado,Sul,39,3354.37,130820.43
+Mouse,Sul,18,3844.95,69209.1
+Smartwatch,Nordeste,10,2286.25,22862.5
+Smartwatch,Centro-Oeste,5,881.67,4408.35
+Teclado,Sudeste,35,4352.84,152349.4
+Notebook,Sul,33,1122.86,37054.38
+Mouse,Nordeste,17,933.31,15866.27
+Notebook,Centro-Oeste,37,3227.76,119427.12
+Teclado,Nordeste,28,1070.62,29977.36
+Fone de Ouvido,Centro-Oeste,11,1198.14,13179.54
+Smartphone,Sudeste,14,3178.48,44498.72
+Teclado,Norte,25,4939.54,123488.5
+Smartwatch,Sudeste,35,3005.38,105188.3
+Teclado,Sudeste,18,2051.38,36924.84
+Tablet,Sul,39,3636.36,141818.04
+Smartwatch,Nordeste,11,4956.72,54523.92
+Notebook,Sul,46,565.34,26005.64
+Tablet,Sudeste,26,1719.27,44701.02
+Mouse,Centro-Oeste,32,1407.1,45027.2
+Notebook,Centro-Oeste,46,1361.23,62616.58
+Tablet,Norte,37,4476.24,165620.88
+Notebook,Centro-Oeste,3,2035.88,6107.64
+Tablet,Nordeste,33,1171.95,38674.35
+Tablet,Sudeste,41,3104.92,127301.72
+Notebook,Norte,13,2619.35,34051.55
+Smartphone,Sul,2,3364.53,6729.06
+Mouse,Sul,44,1206.87,53102.28
+Monitor,Nordeste,21,1392.18,29235.78
+Monitor,Centro-Oeste,8,3271.84,26174.72
+Teclado,Sudeste,44,1655.45,72839.8
+Tablet,Norte,3,992.11,2976.33
+Tablet,Nordeste,2,4970.99,9941.98
+Teclado,Sul,2,1846.57,3693.14
+Smartphone,Norte,35,3666.72,128335.2
+Smartphone,Norte,30,1701.17,51035.1
+Notebook,Sudeste,22,2833.37,62334.14
+Fone de Ouvido,Centro-Oeste,36,4810.25,173169.0
+Monitor,Centro-Oeste,29,3465.52,100500.08
+Tablet,Sul,16,2076.92,33230.72
+Smartwatch,Centro-Oeste,30,2279.34,68380.2
+Tablet,Sul,16,56.12,897.92
+Tablet,Sul,16,3341.31,53460.96
+Notebook,Norte,20,2400.69,48013.8
+Smartphone,Nordeste,30,1211.48,36344.4
+Monitor,Norte,28,4872.11,136419.08
+Fone de Ouvido,Nordeste,5,3699.04,18495.2
+Monitor,Norte,44,1256.1,55268.4
+Fone de Ouvido,Sudeste,30,2628.74,78862.2
+Smartphone,Sudeste,6,1322.38,7934.28
+Smartphone,Sul,8,3788.59,30308.72
+Notebook,Sudeste,33,3062.01,101046.33
+Notebook,Sudeste,12,3921.04,47052.48
+Notebook,Nordeste,34,362.39,12321.26
+Notebook,Nordeste,36,1550.49,55817.64
